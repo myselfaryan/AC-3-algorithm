@@ -63,13 +63,3 @@ Feel free to contribute to this project by:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-
-- Aryan
-- Roll No: S20220010021
-
-## Acknowledgments
-
-- Thanks to all contributors and the AI community
-- Special thanks to the original AC-3 algorithm developers
